@@ -1,3 +1,3 @@
 Hello, this is a file that says hello.
 
-it also says hola and hejsan.
+In addition, it says hola and hejsan.
